@@ -10,7 +10,7 @@
 - Permite a los jugadores entrar o salir de servicio en trabajos específicos utilizando puntos interactivos configurados en el mapa.
 - Uso de un menú para seleccionar opciones como "Entrar en servicio" o "Salir de servicio".
 
-### **Configuración Específica por Trabajo**
+### **Configuración**
 - Cada trabajo tiene:
   - **Coordenadas** específicas en el mapa para el punto de interacción.
   - **Texto personalizado** para el menú y el marcador en pantalla.
@@ -27,4 +27,4 @@
 - [**qb-menu**](https://github.com/qbcore-framework/qb-menu)  
 
 
-[Imgur](https://imgur.com/WdOAjXG)
+https://imgur.com/WdOAjXG
