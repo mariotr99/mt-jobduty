@@ -20,4 +20,8 @@
 - Registra en tiempo real las acciones de los jugadores (entrada o salida de servicio) mediante webhooks.
 - Contador de horas por servicio.
 
+### **Dependencias**
 
+- [**qb-core**](https://github.com/qbcore-framework/qb-core)  
+- [**qb-target**](https://github.com/qbcore-framework/qb-target)  
+- [**qb-menu**](https://github.com/qbcore-framework/qb-menu)  
