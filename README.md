@@ -27,5 +27,5 @@
 - [**qb-menu**](https://github.com/qbcore-framework/qb-menu)  
 
 
-[Imagen 1](https://imgur.com/WdOAjXG)
-[Imagen 2](https://imgur.com/FL3fAjs)
+-  [Imagen 1](https://imgur.com/WdOAjXG)
+-  [Imagen 2](https://imgur.com/FL3fAjs)
