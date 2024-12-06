@@ -48,5 +48,5 @@
 5. **Activa el recurso:**
    - Añade la siguiente línea en tu archivo `server.cfg`:
      ```plaintext
-     ensure DutyStatusManager
+     ensure mt-jobduty
      ```
