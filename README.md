@@ -40,7 +40,7 @@
    - Coloca la carpeta en el directorio `resources` de tu servidor.
 
 3. **Instala la base de datos:**
-   - Importa el archivo `.sql` proporcionado en tu base de datos utilizando un administrador como HeidiSQL, phpMyAdmin o cualquier otro.
+   - Importa el archivo `.sql`.
 
 4. **Configura el script:**
    - Edita el archivo `config.lua` para personalizar las ubicaciones, webhooks y ajustes de los trabajos según las necesidades de tu servidor.
