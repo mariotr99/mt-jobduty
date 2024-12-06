@@ -30,3 +30,23 @@
 
 -  [Imagen 1](https://imgur.com/WdOAjXG)
 -  [Imagen 2](https://imgur.com/FL3fAjs)
+
+### **Instalación**
+
+1. **Descarga el archivo:**
+   - Descarga el script y descomprime la carpeta.
+
+2. **Añádelo a tu servidor:**
+   - Coloca la carpeta en el directorio `resources` de tu servidor.
+
+3. **Instala la base de datos:**
+   - Importa el archivo `.sql` proporcionado en tu base de datos utilizando un administrador como HeidiSQL, phpMyAdmin o cualquier otro.
+
+4. **Configura el script:**
+   - Edita el archivo `config.lua` para personalizar las ubicaciones, webhooks y ajustes de los trabajos según las necesidades de tu servidor.
+
+5. **Activa el recurso:**
+   - Añade la siguiente línea en tu archivo `server.cfg`:
+     ```plaintext
+     ensure DutyStatusManager
+     ```
