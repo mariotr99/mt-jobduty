@@ -27,4 +27,4 @@
 - [**qb-menu**](https://github.com/qbcore-framework/qb-menu)  
 
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="WdOAjXG"><a href="https://imgur.com/WdOAjXG">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+[img]https://i.imgur.com/WdOAjXG.png[/img]
