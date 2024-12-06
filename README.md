@@ -1,6 +1,6 @@
 # **DutyStatusManager - Gestión de Servicio para QB-Core**
 
-**DutyStatusManager** es un script diseñado para servidores QB-Core que permite gestionar el estado de servicio (entrada y salida) de los jugadores en diferentes trabajos. Este sistema incluye puntos interactivos en el mapa, menús personalizados y notificaciones automáticas a Discord, ideal para mantener un registro claro y organizado de las actividades laborales en el servidor.
+**DutyStatusManager** es un script diseñado para servidores QB-Core que permite gestionar el estado de servicio (entrada y salida) de los jugadores en diferentes trabajos. Este sistema incluye interacción con qb-target, qb-menu y log automático a Discord.
 
 ---
 
