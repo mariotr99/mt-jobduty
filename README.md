@@ -28,8 +28,7 @@
 
 ### **Preview**
 
--  [Imagen 1](https://imgur.com/WdOAjXG)
--  [Imagen 2](https://imgur.com/FL3fAjs)
+-  [Youtube]([https://imgur.com/WdOAjXG](https://www.youtube.com/watch?v=re3ALmHpKR4))
 
 ### **Instalación**
 
