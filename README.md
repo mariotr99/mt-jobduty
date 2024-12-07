@@ -28,7 +28,7 @@
 
 ### **Preview**
 
--  [Youtube]([https://imgur.com/WdOAjXG](https://www.youtube.com/watch?v=re3ALmHpKR4)
+-  [Youtube](https://www.youtube.com/watch?v=re3ALmHpKR4)
 
 ### **Instalación**
 
